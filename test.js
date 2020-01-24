@@ -1,5 +1,4 @@
-'use strict';
-  function str() {
+function str() {
     let str = document.getElementById("inputarea").value;
     return str.replace(/\n+/g,"");
    }
@@ -16,3 +15,9 @@
  function count(){
    number();
  }
+
+$(document).ready(function(){
+  $("#inputarea").on('keyup',function(e){
+    number();
+  });
+});
