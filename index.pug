@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+html(lang="ja")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible", content="ie=edge")
+    script(src="app.js")
+    title 文字数カウンタ
+  body
+    h1 文字数カウントメモ
+    textarea(id="inputarea",name="main", cols="30", rows="10",onkeyup='count()')
+    
+    h6(id="counter") 0文字

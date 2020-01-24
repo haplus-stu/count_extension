@@ -1,0 +1,7 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "文字数カウンタ",
+  "main": "index.js",
+  "license": "ISC"
+}
