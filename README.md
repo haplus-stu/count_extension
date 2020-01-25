@@ -1,4 +1,4 @@
-**count_extensions**
+# count_extensions
 
 This extensions is able to count character in the textbox very easily.
 
