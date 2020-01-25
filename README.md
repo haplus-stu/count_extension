@@ -1,10 +1,10 @@
-***count_extensions***
+**count_extensions**
 
 This extensions is able to count character in the textbox very easily.
 
 This extensions only supported by google chrome.
 
-***How to use***
+**How to use**
 
 1.This repository clone or download zip file on your computer.
 
