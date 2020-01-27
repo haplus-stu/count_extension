@@ -2,7 +2,7 @@
 
 This extensions is able to count character in the textbox very easily.
 
-This extensions only supported by google chrome.
+This extensions works on only google chrome
 
 # How to use
 
